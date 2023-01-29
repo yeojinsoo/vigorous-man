@@ -1,5 +1,5 @@
 module.exports = {
-    kr: {
+    en: {
         madeWith: "made with",
         sources: "sources",
     },

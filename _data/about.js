@@ -1,5 +1,5 @@
 module.exports = {
-    kr: {
+    en: {
         title: "about me",
-    },
-};
+    }
+}
