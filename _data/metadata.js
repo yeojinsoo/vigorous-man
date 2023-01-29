@@ -1,5 +1,5 @@
-const url = process.env.URL ?? "https://example.com";
-const title = "Eleventy starter";
+const url = process.env.URL ?? "https://vigorous-man.com";
+const title = "박력분 블로그";
 
 module.exports = {
     en: {
@@ -17,13 +17,13 @@ module.exports = {
             url: `${url}/feed/en.feed.json`,
         },
         source: {
-            label: 'github',
-            link: 'https://github.com/moody-person/11ty-starter'
+            label: "github",
+            link: "https://github.com/yeojinsoo/vigorous-man",
         },
         author: {
             url,
-            name: "Your name",
-            email: "example@mail.com",
+            name: "박력분",
+            email: "yeojinsoo@kakao.com",
         },
         posts: {
             title: `Posts | ${title}`,

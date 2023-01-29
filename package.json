@@ -1,7 +1,7 @@
 {
-    "name": "11ty-starter",
+    "name": "vigorous-man",
     "version": "0.0.1",
-    "description": "eleventy starter",
+    "description": "vigorous-man",
     "scripts": {
         "clean": "rm -rf _site",
         "hasher": "node csshash.js",
@@ -20,12 +20,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/moody-person/11ty-starter"
+        "url": "https://github.com/yeojinsoo/vigorous-man"
     },
     "author": {
-        "name": "Andrey Parfenov",
-        "email": "asleeppiano@outlook.com",
-        "url": "https://andreyparfenov.com"
+        "name": "Jinsoo Yeo",
+        "email": "yeojinsoo@kakao.com",
+        "url": "https://vigorous-man.com"
     },
     "license": "MIT",
     "devDependencies": {
