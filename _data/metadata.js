@@ -2,7 +2,7 @@ const url = process.env.URL ?? "https://example.com";
 const title = "Eleventy starter";
 
 module.exports = {
-    en: {
+    kr: {
         url,
         title,
         description: "TODO",
@@ -17,12 +17,12 @@ module.exports = {
             url: `${url}/feed/en.feed.json`,
         },
         source: {
-            label: 'github',
-            link: 'https://github.com/moody-person/11ty-starter'
+            label: "github",
+            link: "https://github.com/moody-person/11ty-starter",
         },
         author: {
             url,
-            name: "Your name",
+            name: "박력분",
             email: "example@mail.com",
         },
         posts: {

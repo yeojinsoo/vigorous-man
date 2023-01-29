@@ -1,5 +1,5 @@
 module.exports = {
-    en: {
-        title: 'Archive'
-    }
-}
+    kr: {
+        title: "Archive",
+    },
+};
